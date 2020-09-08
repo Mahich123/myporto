@@ -128,7 +128,7 @@ span{
       padding: 20px 0px;
     }
     
-    @media  (max-width :600px){
+    @media  (max-width :592px){
         .top-container{
            overflow: hidden;
            
