@@ -128,22 +128,14 @@ span{
       padding: 20px 0px;
     }
     
-    @media only screen and (min-width :480px){
+    @media  (max-width :600px){
         .top-container{
            overflow: hidden;
-
+           
         }
-    @media only screen and (min-width :800px){
-       .coding{
-        width: 113px;
-        height: 142px;
-        bottom: -1510px;
-       }
-     
-    }
-
-
-        
-        
+        .mountain{
+            overflow: hidden;
+        }
+   
     }
    
